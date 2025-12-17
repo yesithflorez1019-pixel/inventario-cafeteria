@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955115257609",
+    "project_id": "inventario-cafeteria-459c4",
+    "storage_bucket": "inventario-cafeteria-459c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955115257609:android:5d7d137004d2c2a73eddd8",
+        "android_client_info": {
+          "package_name": "com.example.cafeteria_inventario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qQOs9nDfxvHbL55pmBtV5TeahlrhEbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
